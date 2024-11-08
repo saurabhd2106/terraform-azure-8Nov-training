@@ -1,0 +1,1 @@
+resource_group_name = ["myrg-saurabh", "myrg-saurabh-2", "myrg-saurabh-3"]
